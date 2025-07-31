@@ -18,4 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # flutter-chat-app
 Cette application Flutter est un assistant de chat intelligent. Elle permet à l'utilisateur de poser des questions et d'obtenir des réponses automatiques générées par une intelligence artificielle. L’interface est simple et conviviale, avec un affichage clair des messages de l'utilisateur et de l'assistant.
->>>>>>> c18d0efbd7347ea6cd6da59aad70efba969124ef
+
+## 🚀 Fonctionnalités
+
+- 🔐 Authentification simple (`admin / 1234`)
+- 💬 Échange de messages entre l'utilisateur et le chatbot
+- 🧠 Réponses automatiques générées à l'aide d'une API d'IA
+- 🎨 Interface fluide avec gestion des thèmes et de la mise en page
