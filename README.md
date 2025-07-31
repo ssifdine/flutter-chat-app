@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chatbot_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-chat-app
+Cette application Flutter est un assistant de chat intelligent. Elle permet à l'utilisateur de poser des questions et d'obtenir des réponses automatiques générées par une intelligence artificielle. L’interface est simple et conviviale, avec un affichage clair des messages de l'utilisateur et de l'assistant.
+>>>>>>> c18d0efbd7347ea6cd6da59aad70efba969124ef
